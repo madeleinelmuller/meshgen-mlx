@@ -1,0 +1,5 @@
+--extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cu121
+llama_cpp_python==0.3.4
+
+mathutils
+smolagents[litellm]

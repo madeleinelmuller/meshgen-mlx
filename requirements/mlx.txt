@@ -1,0 +1,4 @@
+mlx-lm>=0.21.0
+
+mathutils
+smolagents[litellm]
